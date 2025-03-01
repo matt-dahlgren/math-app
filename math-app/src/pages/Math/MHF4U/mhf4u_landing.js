@@ -76,12 +76,12 @@ function MHF_Landing() {
             In the following modules we will help you in your preparation for your high school math finale!
         </p>
 
-        <div className="subject-bar">
+        <Link className="subject-bar" to="/mhf4u/sums">
             <img src={sumFun} alt="" />
             <div className="text">
                 <h2>Sum of Functions</h2>
             </div>
-        </div>
+        </Link>
       </div>
     </div>
     );

@@ -83,12 +83,12 @@ function MCV_Landing() {
             </ul>
         </p>
 
-        <div className="subject-bar">
+        <Link className="subject-bar" to="/mcv4u/derivatives" >
             <img src={runner} alt="" />
             <div className="text">
                 <h2>Sinusoidal Functions</h2>
             </div>
-        </div>
+        </Link>
       </div>
     </div>
     );

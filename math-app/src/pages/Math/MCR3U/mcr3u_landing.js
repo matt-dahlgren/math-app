@@ -78,12 +78,12 @@ function MCR_Landing() {
             In the following modules we will help you in your academic transition from y to f(x)!
         </p>
 
-        <div className="subject-bar">
+        <Link className="subject-bar" to="/mcr3u/sins">
             <img src={sinGif} alt="" />
             <div className="text">
                 <h2>Sinusoidal Functions</h2>
             </div>
-        </div>
+        </Link>
       </div>
     </div>
     );
