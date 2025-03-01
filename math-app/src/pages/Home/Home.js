@@ -59,7 +59,19 @@ function Home() {
       </div>
 
     {/* Home Container */}
-    <div id="homeContainer" className="container"></div>
+    <div id="homeContainer" className="container">
+      <div>
+        <h2>Welcome!</h2>
+        <p>Hello my name is Matthew Dahlgren and this is my (under development) math learning app! Currenlty you can browse through
+          3 Ontarian High School Math courses (Introductoin to Functions, Advanced Functions, and Calculus & Vectors). Each course has a
+          synopsis of what the Government of Ontario says should be covered, along with one mini lesson. Each mini lesson has one question to 
+          go along with it! 
+        </p>
+
+        <p>You can navigate through classes with the navigation bar at the top of the page! Just hover over Math (and hopefully Chemistry and Physics
+          in the future!), and find the grade you want to learn in -- and then the class! </p>
+      </div>
+    </div>
   </div>
   );
 }

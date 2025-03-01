@@ -49,8 +49,17 @@ function Sums() {
             h(x) = 0
         </p>
 
+        <p>
         In the next page you will be tasked with matching an equation to the picture of a graph. The best way to approach this is to try to break the graph into 
         patterns that you are familiar with. If you can't decide on the right answer, maybe try eliminating wrong answers!
+        </p>
+
+        <h2 align="left">Question Bank</h2>
+        <div>
+            <Link to="/mhf4u/sums/q1">
+                <p align="left">Question 1: Deduce the Summed Function!</p>
+            </Link>
+        </div>
       </div>
     </div>
     );

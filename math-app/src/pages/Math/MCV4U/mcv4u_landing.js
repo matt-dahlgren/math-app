@@ -86,7 +86,7 @@ function MCV_Landing() {
         <Link className="subject-bar" to="/mcv4u/derivatives" >
             <img src={runner} alt="" />
             <div className="text">
-                <h2>Sinusoidal Functions</h2>
+                <h2>Functionality of the First and Second Derivatives</h2>
             </div>
         </Link>
       </div>

@@ -1,22 +1,22 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import "../../style.css";
+import "../../../style.css";
 
 
-function Sinusoidals() {
+function SumsQOne() {
   
     return (
       <div> 
       {/* Navigation Bar */}
       <div className="navbar">
         <div className="dropdown">
-            <Link className="dItem" to="/mcr3u">Back</Link>
+            <Link className="dItem" to="/mhf4u/sums">Back</Link>
         </div>
       </div>
   
       {/* Content Container */}
       <div id="homeContainer" className="container">
-      <h1>Sinusoidal Functions</h1>
+      <h1>Q1</h1>
         <p align="left">
             Intuition: Imagine making a mark on a car tire (assuming the tire is a perfect circle),
              how would you graph the distance of the mark from the ground over some amount of time? Also, is there 
@@ -53,15 +53,10 @@ function Sinusoidals() {
             reach its peak height from the ground than a car driving slower. The time it takes for the mark to make one complete revolution 
             is considered the period.
         </p>
-        <h2 align="left">Question Bank</h2>
-        <div>
-            <Link to="/mcr3u/sins/q1">
-                <p align="left">Question 1: Determine Amplitude and Period</p>
-            </Link>
-        </div>
+
       </div>
     </div>
     );
 }
 
-export default Sinusoidals;
+export default SumsQOne;
