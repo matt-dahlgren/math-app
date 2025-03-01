@@ -1,7 +1,6 @@
 {
   "name": "math-app",
   "version": "0.1.0",
-  "homepage": "https://matt-dahlgren.github.io/math-app",
   "private": false,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
