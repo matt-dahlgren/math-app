@@ -1,8 +1,8 @@
-/* split the layout into two columns */
+/* two columns */
 .content-wrapper {
     display: flex;
     justify-content: space-between;
-    gap: 20px;
+    gap: 10px;
   }
   
   /* question and answer */
@@ -10,22 +10,22 @@
     flex: 1;
     display: flex;
     flex-direction: column;
+    justify-content: start;
     gap: 20px;
-    max-width: 40%; /* Optional, limits the width of the left column */
+    max-width: 40%; 
   }
   
-  /* Desmos calculator */
+  /* calculator */
   .right-column {
     flex: 1;
     display: flex;
-    justify-content: center;
+    justify-content: right;
     align-items: center;
-    max-width: 60%; /* Optional, limits the width of the right column */
+    max-width: 50%; 
   }
   
-  /* Ensure the inputs take some width */
   input {
-    width: 100%;
+    width: 50%;
     padding: 10px;
     margin-bottom: 10px;
     border: 1px solid #ccc;
