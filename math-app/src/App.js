@@ -1,4 +1,4 @@
-import { Routes, Route, Link } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import './App.css';
 
 // import general pages
@@ -24,11 +24,13 @@ function App() {
         {/* Math */}
 
         {/* Grade Eleven */}
-        <Route path="/math/mcr3u" element={<IntroductionToFunctions />} />
+        <Route path="/mcr3u" element={<IntroductionToFunctions />} />
 
+        {/* MCR3U to other classes */}
+        
         {/* Grade Twelve */}
-        <Route path="/math/mcv4u" element={<CalculusAndVecotrs />} />
-        <Route path="/math/mhf4u" element={<AdvancedFunctions />} />
+        <Route path="/mcv4u" element={<CalculusAndVecotrs />} />
+        <Route path="/mhf4u" element={<AdvancedFunctions />} />
 
       </Routes>
 
