@@ -11,7 +11,9 @@
 
 **5** [Next Steps](#next-steps)
 
-**6** [Resource Credits](#resource-credits)
+**6** [Photos](#photos)
+
+**7** [Resource Credits](#resource-credits)
 
 
 ## Features
@@ -44,6 +46,19 @@ I have never coded in JavaScript or CSS before, so getting to learn how to devel
 - Add the choice to change colour schemes and font sizes for the app to accomodate those who have vision problems
 - Creating a backend database that keeps track of accounts, allowing teachers to access their student's learning diagnostics and progress in their courses.
 
+## Photos
+
+The Tiered Navigation Tool
+![Navigation Tool](./math-app/src/resources/teired_navigation_tool.png)
+
+A Sample Course Overview
+![Calculus and Vectors](./math-app/src/resources/sample_course.png)
+
+A Sample Lesson 
+![First and Second Derivatives](./math-app/src/resources/sample_lesson.png)
+
+A Sample Questoin with Access to the Desmos API
+![Sample Question with Desmos](./math-app/src/resources/API.png)
 
 ## Resource Credits
 - Mathematics Cirriculum (2020) - https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-mathematics
