@@ -40,7 +40,7 @@ function DerivativesQOne() {
         <div className="content-wrapper">
           <div className="left-column">
             <h1>Determine Velocity and Acceleration</h1>
-            <p>In the first box type the acceleration of the runner based on the model. In the second box
+            <p align="left">In the first box type the acceleration of the runner based on the model. In the second box
                 find the runner's velocity at x = 2:</p>
             <input
               type="text"
@@ -67,7 +67,7 @@ function DerivativesQOne() {
           </div>
 
           <div className="right-column">
-            <div id="calculator" style={{ width: "600px", height: "400px" }}></div>
+            <div id="calculator" style={{ width: "400px", height: "400px" }}></div>
           </div>
         </div>
       </div>

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/math-app/static/css/main.d864f13f.css",
+    "main.js": "/math-app/static/js/main.cf292cea.js",
+    "static/js/453.ada4d3a7.chunk.js": "/math-app/static/js/453.ada4d3a7.chunk.js",
+    "static/media/sin.gif": "/math-app/static/media/sin.17695422784eb20c5d1a.gif",
+    "static/media/accelleration.png": "/math-app/static/media/accelleration.da4f8ffb084f089b4b14.png",
+    "static/media/sum_of_functions.png": "/math-app/static/media/sum_of_functions.9bf6efdcdcbeedffe1be.png",
+    "static/media/fgraph.png": "/math-app/static/media/fgraph.8c254d1c6e1765543cd7.png",
+    "static/media/jeq.png": "/math-app/static/media/jeq.66ed377892db348a55d0.png",
+    "index.html": "/math-app/index.html",
+    "main.d864f13f.css.map": "/math-app/static/css/main.d864f13f.css.map",
+    "main.cf292cea.js.map": "/math-app/static/js/main.cf292cea.js.map",
+    "453.ada4d3a7.chunk.js.map": "/math-app/static/js/453.ada4d3a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d864f13f.css",
+    "static/js/main.cf292cea.js"
+  ]
+}
