@@ -4,7 +4,7 @@ import "./question_style.css";
 
 const TrueFalse = ({sen}) => {
   const [selectedAnswer, setSelectedAnswer] = useState(null);
-  const correctAnswer = true; // Change this based on the correct answer
+  const correctAnswer = false;
 
   const handleAnswerClick = (answer) => {
     setSelectedAnswer(answer);
