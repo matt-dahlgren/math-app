@@ -42,6 +42,7 @@ function DerivativesQOne() {
             <h1>Determine Velocity and Acceleration</h1>
             <p align="left">In the first box type the acceleration of the runner based on the model. In the second box
                 find the runner's velocity at x = 2:</p>
+            <p>let f(x) = -0.6x^2 +4x</p>
             <input
               type="text"
               placeholder="Acceleration"

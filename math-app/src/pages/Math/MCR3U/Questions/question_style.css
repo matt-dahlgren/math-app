@@ -51,12 +51,12 @@
   }
   
   button.correct {
-    background-color: green;
+    background-color: red;
     color: white;
   }
   
   button.incorrect {
-    background-color: red;
+    background-color: green;
     color: white;
   }
   
