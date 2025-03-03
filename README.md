@@ -1,4 +1,4 @@
-# **Versus Wordle**
+# **Math Learning App**
 #### by: Matthew Dahlgren
 
 **1** [Features:](#features)
